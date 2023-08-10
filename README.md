@@ -1,4 +1,4 @@
-# projects
+# Projects
 These are a few small projects I did in the past that weren't organized and public on github so I updated it and put them here. 
 How to run file_organizer:
 Navigate in command line to directory containing file, run: python file_organizer.py then copy paste the path to the directory you want to organize.
